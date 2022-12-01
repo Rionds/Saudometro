@@ -1,4 +1,4 @@
-#!/usr/bin/venv python
+#!/usr/bin/env python
 
 import cgitb, cgi
 
