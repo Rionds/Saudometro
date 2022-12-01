@@ -1,0 +1,21 @@
+body {
+    color: #fe93d0;
+    background-color: #FFDCED;
+}
+
+img#imagem {
+    margin-top: 30px;
+    margin-right: 650px;
+    margin-left: 650px;
+    width: 600px;
+    box-shadow: 20px;
+}
+
+div#caixas {
+    text-align: center;
+    background: #fad2e5;
+    padding: 50px;
+    margin-top: 10px;
+    margin-right: 500px;
+    margin-left: 500px;
+}

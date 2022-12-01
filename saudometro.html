@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medidas de saúde</title>
+    <link rel="stylesheet" href="estilo.css">
+    <link rel="icon" href="healthcare.png">
+</head>
+<body>
+    <div>
+        <img id="imagem" src="BoasVindas.png" alt="banner do site">
+    </div>
+    <div id="caixas">
+        <form action="./cgi-bin/IMC.py" method="post">
+            Peso<input type="text" name="peso">
+            <p>Altura<input type="text" name="altura"></p>
+            <input type="submit" name="submit" value="Enviar">
+        </form>
+    </div>
+</body>
+</html>

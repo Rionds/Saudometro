@@ -1,0 +1,16 @@
+body {
+    background-color: #fee9f5;
+}
+
+div#imcRes{
+    margin-top: 200px;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: #fee9ec;
+    padding: 30px;
+    font-size: 50px;
+    text-align: center;
+    color: #c965a4;
+    box-shadow: 10px 10px 20px #ff87d2;
+    border-radius: 10px;
+}
